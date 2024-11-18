@@ -1,4 +1,4 @@
-# EDGE-DETECTION
+# Exp-6- Record-EDGE DETECTION 
 ## Aim:
 To perform edge detection using Sobel, Laplacian, and Canny edge detectors.
 
